@@ -1,3 +1,7 @@
+body {
+  background-color: lightblue;
+}
+
 .logo {
   width: 50px;
 }
@@ -10,6 +14,7 @@
 }
 
 .main-header {
+  background-color: blue;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -43,7 +48,7 @@ a {
 }
 
 footer {
-  padding: 50px;
+  padding: 10px;
   background-color: aqua;
   display: flex;
   justify-content: center;
